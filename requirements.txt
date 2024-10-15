@@ -1,1 +1,10 @@
+# ds packages
+pandas
+numpy
+
+# visual
+matplotlib
+
+# jupyter notebooks
+jupyterlab
 
